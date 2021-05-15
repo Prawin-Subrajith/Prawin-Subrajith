@@ -6,9 +6,9 @@
 
 ## Connect with me:
 
-[<img height="32" width="32" src="https://github.com/Prawin-Subrajith/Prawin-Subrajith/blob/master/icons8-instagram.gif" />][Instagram]
-[<img height="32" width="32" src="https://github.com/Prawin-Subrajith/Prawin-Subrajith/blob/master/linkedin-bounce.gif" />][LinkedIn]
-[<img height="32" width="32" src="https://github.com/Prawin-Subrajith/Prawin-Subrajith/blob/master/twitter-circled-shake.gif" />][Twitter]
+[<img height="32" width="32" src="https://github.com/Prawin-Subrajith/Prawin-Subrajith/blob/main/icons8-instagram.gif" />][Instagram]
+[<img height="32" width="32" src="https://github.com/Prawin-Subrajith/Prawin-Subrajith/blob/main/linkedin-bounce.gif" />][LinkedIn]
+[<img height="32" width="32" src="https://github.com/Prawin-Subrajith/Prawin-Subrajith/blob/main/twitter-circled-shake.gif" />][Twitter]
 
 ## Languages and Tools Used:
 
