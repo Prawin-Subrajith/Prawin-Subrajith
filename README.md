@@ -1,7 +1,7 @@
 ## Hello
 
-- 🔭 I’m currently studying my B.Tech Mechanical Engg. in Amrita School of Engineering
-- 🌱 I’m currently learning Cybersecurity, Python, Java and C++ `
+- 🏫 I’m currently studying my B.Tech Mechanical Engg. in Amrita School of Engineering
+- 💻 I’m currently learning Cybersecurity, Python, Java and C++ `
 - ⚡ Fun fact: I'm a Freelance Illustrator and a 3D Artist
 
 ## Connect with me:
