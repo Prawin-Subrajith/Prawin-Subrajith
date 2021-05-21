@@ -1,7 +1,7 @@
 ## Hello
 
-- 🏫 I’m currently studying my B.Tech Mechanical Engg. in Amrita School of Engineering
-- 💻 I’m currently learning Cybersecurity, Python, Java and C++ `
+- 🏫 I’m currently pursuing my B.Tech Mechanical Engg. in Amrita School of Engineering, Coimbatore
+- 🔭 I’m currently learning Cybersecurity, Python, Java and C++ `
 - ⚡ Fun fact: I'm a Freelance Illustrator and a 3D Artist
 
 ## Connect with me:
@@ -17,7 +17,7 @@
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="VSCODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
 
 
 [Instagram]: https://grabify.link/S76JQG
