@@ -3,6 +3,7 @@
 - 🏫 I’m currently pursuing my B.Tech Mechanical Engg. in Amrita School of Engineering, Coimbatore
 - 🔭 I’m currently learning Cybersecurity, Python, Java and C++ `
 - ⚡ Fun fact: I'm a Freelance Illustrator and a 3D Artist
+- https://linktr.ee/prawinsubrajith
 
 ## Connect with me:
 
