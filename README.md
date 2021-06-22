@@ -1,5 +1,5 @@
 <h1 align="center">Hola , I'm Prawin Subrajith S!👋</h1>
-<h3 align="center">2 ⭐ CodeChef(1659) || 5 ⭐ Hackerrank(C,C++) || Competitive Coder || First year student at ASE Coimbatore</h3>
+<h3 align="center">3 ⭐ CodeChef(1659) || 5 ⭐ Hackerrank(C,C++) || Competitive Coder || First year student at ASE Coimbatore</h3>
 
 - 🏫 I’m currently pursuing my B.Tech Mechanical Engg. in Amrita School of Engineering, Coimbatore
 - 🔭 I’m currently learning Cybersecurity, Python, Java and C++ `
